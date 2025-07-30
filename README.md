@@ -28,8 +28,8 @@ Key Rush is a simple and fun typing speed game built using **HTML**, **CSS**, an
 
 ## 🛠️ Built With
 
-- **HTML5**
-- **CSS3**
+- **HTML**
+- **CSS**
 - **JavaScript** 
 - **Audio**
 ---
